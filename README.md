@@ -9,7 +9,7 @@ If the query is not present in database it creates a child and stores the timest
 count is a variable that also gets created along with the new child that keeps track of number of time stamps.
 
 schedule:
-This functions schedules a cron-like job. It executes the contents every hour at 30 minutes from 9:30 to 17:30 on weekdays mon-fri.
+This functions schedules a cron-like jobs. It executes the contents every hour at 30 minutes from 9:30 to 17:30 on weekdays mon-fri.
 
 This uses cloud functions of firebase to
 -Write data to firebase
