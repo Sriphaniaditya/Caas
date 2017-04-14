@@ -1,5 +1,5 @@
 # Caas
-Campus Automation and Attendance System
+Campus Automation and Attendance System using FIREBASE
 
 The index.js file has the code to functions like addStamp and schedule
 
