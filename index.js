@@ -147,12 +147,4 @@ function calt(obj,rd)
 	});
 	console.log("Calculation done at "+Date(admin.database.ServerValue.TIMESTAMP))
 }
-// 4/12/2017
 
-// led 
-// lcd
-// hex
-// 7seg
-// gps
-// relay
-// dc
